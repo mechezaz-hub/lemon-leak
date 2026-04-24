@@ -1,3 +1,8 @@
+def on_countdown_end():
+    game.game_over(True)
+    game.set_game_over_effect(True, effects.smiles)
+info.on_countdown_end(on_countdown_end)
+
 def on_on_overlap(sprite, otherSprite):
     mySprite.start_effect(effects.cool_radial, 5000)
     info.change_score_by(4)

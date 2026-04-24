@@ -1,3 +1,7 @@
+info.onCountdownEnd(function on_countdown_end() {
+    game.gameOver(true)
+    game.setGameOverEffect(true, effects.smiles)
+})
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Projectile, function on_on_overlap(sprite: Sprite, otherSprite: Sprite) {
     mySprite.startEffect(effects.coolRadial, 5000)
     info.changeScoreBy(4)
