@@ -1,8 +1,9 @@
 {
     "name": "Lemon Leak",
-    "description": "",
+    "description": "Use Arrows To Score Points.",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
@@ -11,7 +12,9 @@
         "assets.json",
         "images.g.jres",
         "images.g.ts",
-        "main.py"
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -23,5 +26,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }

@@ -4,6 +4,26 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Strawberry"
     },
+    "image2": {
+        "data": "hwQQABAAAABEC7DMzAAAAFS0S91EzAAAVFVdRdVEDABAVVVVVdXEAEBRVVVFVUQMVFVVVV1FTQxUEVVV1VVEy1QRVVVV3UTEVFFVVVVNRMRUVVVVVU1ExEAVVVVV1UTLQBVRVVVVTcsAVBFVVVVdtABAVRVVVVW1AABEVVVFXUQAAABERMtMBA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Yellow Lemon"
+    },
+    "image3": {
+        "data": "hwQQABAAAACIC7DMzAAAAHi4i92IzAAAeHd9h9eIDACAd3d3d9fIAIBxd3eHd4gMeHd3d32HjQx4EXd313eIy3gRd3d33YjIeHF3d3eNiMh4d3d3d42IyIAXd3d314jLgBdxd3d3jcsAeBF3d3d9uACAdxd3d3e3AACId3eHfYgAAACIiMuMCA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Green Lemon"
+    },
+    "image4": {
+        "data": "hwQQABAAAACIC7DMzAAAAJi4i92IzAAAmJmdidmIDACAmZmZmdnIAICRmZmJmYgMmJmZmZ2JjQyYEZmZ2ZmIy5gRmZmZ3YjImJGZmZmNiMiYmZmZmY2IyIAZmZmZ2YjLgBmRmZmZjcsAmBGZmZmduACAmRmZmZm5AACImZmJnYgAAACIiMuMCA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blue Lemon"
+    },
+    "p=5qmb_kQHiES,lM?gsT_img": {
+        "data": "hwQQABAAAACIC7DMzAAAAKi4i92IzAAAqKqtitqIDACAqqqqqtrIAIChqqqKqogMqKqqqq2KjQyoEaqq2qqIy6gRqqqq3YjIqKGqqqqNiMioqqqqqo2IyIAaqqqq2ojLgBqhqqqqjcsAqBGqqqqtuACAqhqqqqq6AACIqqqKrYgAAACIiMuMCA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Purple Lemon"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
